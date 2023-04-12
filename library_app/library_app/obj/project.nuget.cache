@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "ZAeH4WEv2LYG9hFRy3UEOpMC67fgOYlZtt8SDL0v5+qmJYIclPVBitFtxNic1fscDvQXmIsglsrp7wk8R+M6uQ==",
+  "dgSpecHash": "NtpzX3FT0zSxFEY1L78ZxMy1unknT+LS/1lazWBDRNz+Apl70N17/vnr3w8WGSWFOet20Lj23ZjNeLs5/+85Pg==",
   "success": true,
   "projectFilePath": "C:\\Users\\vlobi\\OneDrive\\Документы\\GitHub\\library_app\\library_app\\library_app\\library_app.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\vlobi\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\vlobi\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\vlobi\\.nuget\\packages\\system.data.oledb\\7.0.0\\system.data.oledb.7.0.0.nupkg.sha512",
+    "C:\\Users\\vlobi\\.nuget\\packages\\system.diagnostics.performancecounter\\7.0.0\\system.diagnostics.performancecounter.7.0.0.nupkg.sha512",
+    "C:\\Users\\vlobi\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\vlobi\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\vlobi\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\vlobi\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
