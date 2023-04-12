@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\library_app",
+    "\\library_app\\library_app"
   ],
-  "SelectedNode": "\\C:\\Users\\vlobi\\OneDrive\\Документы\\GitHub\\library_app",
+  "SelectedNode": "\\library_app\\library_app.sln",
   "PreviewInSolutionExplorer": false
 }
