@@ -70,6 +70,7 @@
             textBox2.Font = new Font("Segoe UI", 16F, FontStyle.Regular, GraphicsUnit.Point);
             textBox2.Location = new Point(411, 220);
             textBox2.Name = "textBox2";
+            textBox2.PasswordChar = '*';
             textBox2.Size = new Size(231, 43);
             textBox2.TabIndex = 3;
             // 
@@ -90,6 +91,7 @@
             button2.TabIndex = 5;
             button2.Text = "Зарегистрироваться";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // label3
             // 
